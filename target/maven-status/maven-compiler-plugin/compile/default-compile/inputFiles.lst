@@ -1,0 +1,11 @@
+/home/nxtwave/nxttrendz1/src/main/java/com/example/nxttrendz1/NxtTrendzApplication.java
+/home/nxtwave/nxttrendz1/src/main/java/com/example/nxttrendz1/controller/ReviewController.java
+/home/nxtwave/nxttrendz1/src/main/java/com/example/nxttrendz1/repository/ProductJpaRepository.java
+/home/nxtwave/nxttrendz1/src/main/java/com/example/nxttrendz1/repository/ProductRepository.java
+/home/nxtwave/nxttrendz1/src/main/java/com/example/nxttrendz1/model/Review.java
+/home/nxtwave/nxttrendz1/src/main/java/com/example/nxttrendz1/repository/ReviewRepository.java
+/home/nxtwave/nxttrendz1/src/main/java/com/example/nxttrendz1/model/Product.java
+/home/nxtwave/nxttrendz1/src/main/java/com/example/nxttrendz1/repository/ReviewJpaRepository.java
+/home/nxtwave/nxttrendz1/src/main/java/com/example/nxttrendz1/service/ReviewJpaService.java
+/home/nxtwave/nxttrendz1/src/main/java/com/example/nxttrendz1/controller/ProductController.java
+/home/nxtwave/nxttrendz1/src/main/java/com/example/nxttrendz1/service/ProductJpaService.java
